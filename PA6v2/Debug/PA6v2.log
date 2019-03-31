@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\chandler\documents\visual studio 2015\projects\pa6v2\pa6v2\main.c(5): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  battleship.c
+  Generating Code...
+  PA6v2.vcxproj -> C:\Users\Chandler\Documents\Visual Studio 2015\Projects\PA6v2\Debug\PA6v2.exe
+  PA6v2.vcxproj -> C:\Users\Chandler\Documents\Visual Studio 2015\Projects\PA6v2\Debug\PA6v2.pdb (Full PDB)
